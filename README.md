@@ -7,3 +7,12 @@
 
 <p>Fascinated in help people through technology.</p>
 <p>Passionate about learning new technologies, concepts and architectures about software development.</p>
+
+### My development stack
+![Badge](https://img.shields.io/static/v1?label=&logo=html5&message=HTML&color=black)
+![Badge](https://img.shields.io/static/v1?label=&logo=css3&message=CSS&color=black)
+![Badge](https://img.shields.io/static/v1?label=&logo=javascript&message=JavaScript&color=black)
+![Badge](https://img.shields.io/static/v1?label=&logo=typescript&message=TypeScript&color=black)
+![Badge](https://img.shields.io/static/v1?label=&logo=react&message=React&color=black)
+![Badge](https://img.shields.io/static/v1?label=&logo=node.js&message=Node&color=black)
+![Badge](https://img.shields.io/static/v1?label=&logo=styled-components&message=Styled%20Components&color=black)
