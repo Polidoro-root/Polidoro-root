@@ -14,5 +14,7 @@
 ![Badge](https://img.shields.io/static/v1?label=&logo=javascript&message=JavaScript&color=black)
 ![Badge](https://img.shields.io/static/v1?label=&logo=typescript&message=TypeScript&color=black)
 ![Badge](https://img.shields.io/static/v1?label=&logo=react&message=React&color=black)
+![Badge](https://img.shields.io/static/v1?label=&logo=vue.js&message=Vue&color=black)
 ![Badge](https://img.shields.io/static/v1?label=&logo=node.js&message=Node&color=black)
 ![Badge](https://img.shields.io/static/v1?label=&logo=styled-components&message=Styled%20Components&color=black)
+![Badge](https://img.shields.io/static/v1?label=&logo=tailwind-css&message=TailwindCSS&color=black)
