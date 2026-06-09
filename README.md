@@ -13,3 +13,6 @@
 ![Badge](https://img.shields.io/static/v1?label=&logo=node.js&message=Node&color=black)
 ![Badge](https://img.shields.io/static/v1?label=&logo=tailwind-css&message=TailwindCSS&color=black)
 ![Badge](https://img.shields.io/static/v1?label=&logo=go&message=Go&color=black)
+![Badge](https://img.shields.io/static/v1?label=&logo=OpenJDK&message=Java&color=black)
+![Badge](https://img.shields.io/static/v1?label=&logo=spring&message=Spring&color=black)
+![Badge](https://custom-icon-badges.demolab.com/badge/AWS-%23FF9900.svg?logo=aws&color=black)
